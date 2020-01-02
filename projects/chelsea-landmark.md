@@ -3,7 +3,7 @@ date: 2019-05-16
 year: 2019
 title: Banana
 category: Identity
-thumbnail: "/uploads/mike-dorner-173502-unsplash.jpg"
+thumbnail: "/uploads/ELSAu1_VAAApkUQ.jpeg"
 categories:
 - photography
 - pink
@@ -11,6 +11,4 @@ project_bg_color: "#791919"
 project_fg_color: ''
 
 ---
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds).
-
-![](/uploads/mike-dorner-173502-unsplash.jpg)
+[76653276_1216980038500435_8320613075656900608_n.jpg?_nc_cat=109&_nc_oc=AQlczkgeHYXM1uRHH7kzz11yP-LNyq68oCRc34Al8CvTAv3tAEsO5KuTnqYG_Pkwn3M&_nc_ht=scontent-sin2-1.xx&oh=0a293e464ba734d9f27ebdb5fccef478&oe=5EAD4D83](https://scontent-sin2-1.xx.fbcdn.net/v/t1.0-9/76653276_1216980038500435_8320613075656900608_n.jpg?_nc_cat=109&_nc_oc=AQlczkgeHYXM1uRHH7kzz11yP-LNyq68oCRc34Al8CvTAv3tAEsO5KuTnqYG_Pkwn3M&_nc_ht=scontent-sin2-1.xx&oh=0a293e464ba734d9f27ebdb5fccef478&oe=5EAD4D83 "76653276_1216980038500435_8320613075656900608_n.jpg?_nc_cat=109&_nc_oc=AQlczkgeHYXM1uRHH7kzz11yP-LNyq68oCRc34Al8CvTAv3tAEsO5KuTnqYG_Pkwn3M&_nc_ht=scontent-sin2-1.xx&oh=0a293e464ba734d9f27ebdb5fccef478&oe=5EAD4D83")
